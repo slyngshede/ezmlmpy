@@ -1,0 +1,3 @@
+Returns an hash usable by ezmlm.
+Takes an email address as input.
+
